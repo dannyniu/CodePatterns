@@ -9,7 +9,7 @@ and common code patterns in those languages.
 
 1. xtcp.c 
 
-1.1. host and service name resolution using getaddrinfo, 
+1.1. host and service name resolution using `getaddrinfo`, 
 
 1.2. syscall usages for `socket`, `bind`, `listen`, `connect`, etc.
 
