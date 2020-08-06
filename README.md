@@ -18,4 +18,4 @@ and common code patterns in those languages.
 
 - Build Command: `make CFLAGS="-Wall -Wextra" xtcp`
 
-- Usage: `xtcp [[bind-address] bind-port] connect-address connect-port` (address and port can be host and service names)
+- Usage: `xtcp [[bind-address] bind-port] connect-address connect-port` (addresses and ports can be host and service names)
