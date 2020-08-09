@@ -19,3 +19,7 @@ and common code patterns in those languages.
 - Build Command: `make CFLAGS="-Wall -Wextra" xtcp`
 
 - Usage: `xtcp [[bind-address] bind-port] connect-address connect-port` (addresses and ports can be host and service names)
+
+2. intconv.md
+
+- A discussion of C language integer types of my own.
