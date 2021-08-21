@@ -23,3 +23,7 @@ and common code patterns in those languages.
 2. intconv.md
 
 - A discussion of C language integer types of my own.
+
+3. programming-foundations.md
+
+- Making sense of how the current forms of programming languages came about.
