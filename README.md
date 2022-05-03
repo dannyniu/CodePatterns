@@ -7,8 +7,8 @@ and common code patterns in those languages.
 
 # Files and Demonstrations
 
-<xtcp.c>
---------
+[xtcp.c]
+----
 
 1. host and service name resolution using `getaddrinfo`, 
 
@@ -21,17 +21,17 @@ and common code patterns in those languages.
 
 - Usage: `xtcp [[bind-address] bind-port] connect-address connect-port` (addresses and ports can be host and service names)
 
-<intconv.md>
-------------
+[intconv.md](intconv.md)
+----
 
 - A discussion of C language integer types of my own.
 
-<programming-foundations.md>
-----------------------------
+[programming-foundations.md](programming-foundations.md)
+----
 
 - Making sense of how the current forms of programming languages came about.
 
-<fork-threads-signals-libraries.md>
------------------------------------
+[fork-threads-signals-libraries.md](fork-threads-signals-libraries.md)
+----
 
 A discussion about some of the most complicated concepts with Unix/POSIX.
