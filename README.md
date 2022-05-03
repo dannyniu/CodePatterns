@@ -7,7 +7,7 @@ and common code patterns in those languages.
 
 # Files and Demonstrations
 
-[xtcp.c]
+[xtcp.c](xtcp.c)
 ----
 
 1. host and service name resolution using `getaddrinfo`, 
