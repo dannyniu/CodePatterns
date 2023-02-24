@@ -269,7 +269,7 @@ Consider the following example:
 ```c
 uint64_t set(uint64_t a, uint16_t b)
 {
-    a &= UINT64_C(0xffff) << 24;
+    a &= ~(UINT64_C(0xffff) << 24;
     a |= b << 24;
     return a;
 }
@@ -294,7 +294,7 @@ like this:
 ```c
 uint64_t set_v1(uint64_t a, uint16_t b)
 {
-    a &= UINT64_C(0xffff) << 24;
+    a &= ~(UINT64_C(0xffff) << 24);
     a |= (uint64_t)b << 24;
     return a;
 }
@@ -302,7 +302,7 @@ uint64_t set_v1(uint64_t a, uint16_t b)
 uint64_t set_v2(uint64_t a, uint16_t b)
 {
     uint64_t w = b;
-    a &= UINT64_C(0xffff) << 24;
+    a &= ~(UINT64_C(0xffff) << 24);
     a |= w << 24;
     ...
     return a;
