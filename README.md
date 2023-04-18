@@ -21,6 +21,11 @@ and common code patterns in those languages.
 
 - Usage: `xtcp [[bind-address] bind-port] connect-address connect-port` (addresses and ports can be host and service names)
 
+[circ-rc-2023-04-18.md](circ-rc-2023-04-18.md)
+----
+
+- An opinion piece on reference counting and the circular reference problem.
+
 [intconv.md](intconv.md)
 ----
 
