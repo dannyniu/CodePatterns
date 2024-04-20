@@ -21,7 +21,7 @@ and common code patterns in those languages.
 
 - Usage: `xtcp [[bind-address] bind-port] connect-address connect-port` (addresses and ports can be host and service names)
 
-[IEEE-754-2019 Summary in Spreadsheet Format](2024-04-08+IEEE-754+Summary.xlsx)
+[IEEE-754-2019 Summary in Spreadsheet Format](2024-04-08%20IEEE-754%20Summary.xlsx)
 ----
 
 - The newer IEEE-754 standards are more than just FP data formats. Here I've made a outline summary of the 2019 edition of the standard as a publicly available reference.
