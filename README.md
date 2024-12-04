@@ -26,11 +26,6 @@ and common code patterns in those languages.
 
 - The newer IEEE-754 standards are more than just FP data formats. Here I've made a outline summary of the 2019 edition of the standard as a publicly available reference.
 
-[circ-rc-2023-04-18.md](circ-rc-2023-04-18.md)
-----
-
-- An opinion piece on reference counting and the circular reference problem.
-
 [intconv.md](intconv.md)
 ----
 
